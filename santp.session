@@ -1,0 +1,21 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item line="35" column="23" url="clases/cargarLog.php" />
+      <item line="241" column="151" url="paginas/formatoSolicitud.php" />
+      <item line="178" column="0" url="paginas/login.php" />
+      <item line="121" column="0" url="clases/directorioActivo.php" />
+      <item line="98" column="34" url="clases/presentacion.php" />
+      <item line="91" column="0" url="paginas/controlador_verificar.php" />
+      <item line="20" column="46" url="paginas/usuarios.php" />
+      <item line="292" column="148" url="paginas/estructura.php" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="clases" />
+      <openfolder url="controles" />
+      <openfolder url="css" />
+      <openfolder url="paginas" />
+    </treestatus>
+  </session>
+</webprojectsession>
